@@ -1,0 +1,19 @@
+{
+  "name": "imoncoolapp",
+  "version": "1.0.0",
+  "description": "node app",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "respository": {
+    "type": "git",
+    "url": ""
+  },
+  "author": "Imon Dela Rosa",
+  "license": "ISC",
+  "bugs": {
+    "url": ""
+  },
+  "homepage": ""
+}
